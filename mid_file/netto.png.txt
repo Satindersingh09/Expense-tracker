@@ -1,0 +1,41 @@
+Netto
+
+Morken-Discount
+
+12435 Berlin, Wildenbruchstr. 55
+WWW .NETTO-ONLINE . DE
+
+UR
+Lieb. Brioche Burger Bun 2509 1,69 B
+KloBteig Thueringer Art 7509 1,79 B
+Banane Chiquita Lose 0,94 B
+0,472 ka x 1,99 EUR/ks
+Preisaenderung -0,47
+SUMME [3] 3,99
+
+SUMME € 3,95
+Kartenzahlung EUR 3,95
+
+_K-\J-H-D-E-H-B-E-1 -E-6-
+
+Terminal-1D : 65482673
+TA-Hr 219747 —- BN 9056
+
+Kartenzah lung
+kontakt los
+DEBIT MASTERCARD
+
+EUR 3.95
+
+PAN 220290888082311/
+
+Karte 0
+ERV-AID 0000000041010
+VU-Hr 4556409563 °
+
+Genehaigungs-Nr KFAIYH
+Datua 04. 04.26 17:41 Uhr
+
+AS-Proc-Code = 00 075 00
+Capt.-Ref.= 0000
+APPROVED
