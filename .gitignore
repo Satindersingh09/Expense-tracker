@@ -1,0 +1,7 @@
+# Ignore runtime/generated files
+bills/
+mid_file/
+database/
+__pycache__/
+*.pyc
+
